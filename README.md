@@ -16,4 +16,5 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 
 - Name: JAGPREET SINGH  
 - Roll No.: didn't get  
-- Interests: use and learn about new technologies.
+- Interests: use and learn about new technologies, java
+
